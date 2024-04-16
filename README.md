@@ -8,7 +8,7 @@ This project was made for the Mobile Devices Programming assignature.
 
 By Peter Alejandro Pérez Chel
 
-- [Video explaining the code and structure](https://youtu.be/oXGVGGDW3BE)
+- [Video explaining the code and structure](https://youtu.be/u7yCiZXTmlk)
 
 - For help getting started with Flutter development, view the [online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
@@ -16,7 +16,8 @@ By Peter Alejandro Pérez Chel
 
 App running on Emulator
 
-![image](https://github.com/PeterPerez01/flutter_api_curso/assets/56180954/625d2829-1d94-409f-98d0-ff8fc3deb8d6)
+![image](https://github.com/PeterPerez01/sliver_card_animation/assets/56180954/fab070d4-55aa-4d31-bf05-17b1036cf439)
+
 
 
 
