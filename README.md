@@ -36,12 +36,13 @@ App running on Emulator
 ## Install
 
 1. Clone this repo
-  1.1 Copy app folder to environment IDE
-  1.2 Install pub dependences
-  1.3 Run the emulation device
-  1.4 Go to main.dart
-  1.5 Select flutter device
-  1.6 Run debugging
+- 1.1 Copy app folder to environment IDE
+- 1.2 Install pub dependences
+- 1.3 Run the emulation device
+- 1.4 Go to main.dart
+- 1.5 Select flutter device
+- 1.6 Run debugging
+
 2. Wait until the app gets in emulator
 3. Test
 
